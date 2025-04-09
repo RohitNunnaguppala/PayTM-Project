@@ -21,7 +21,7 @@ export const SendMoney = () => {
     try {
       setIsTransferring(true);
       const res = await axios.post(
-        "http://localhost:3000/api/v1/account/transfer",
+        "https://paytm-backend-rmep.onrender.com/api/v1/account/transfer",
         {
           to: id,
           amount: Number(amount),
