@@ -36,7 +36,7 @@ export const Signup = () => {
     try {
       setLoading(true);
       const response = await axios.post(
-        "http://localhost:3000/api/v1/user/signup",
+        "https://paytm-backend-rmep.onrender.com/api/v1/user/signup",
         {
           firstName: firstName.trim(),
           lastName: lastName.trim(),
