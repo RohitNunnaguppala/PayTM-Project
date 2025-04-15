@@ -96,10 +96,17 @@ npm run dev
 
 ## 📸 UI Preview
 
-_![Signin](image.png)_
-_![Signup](image-3.png)_
-_![Dashboard](image-1.png)_
-_![Send Money](image-2.png)_
+### 🔐 Sign In
+![Signin](image.png)
+
+### 📝 Sign Up
+![Signup](image-3.png)
+
+### 📊 Dashboard
+![Dashboard](image-1.png)
+
+### 💸 Send Money
+![Send Money](image-2.png)
 
 ---
 
