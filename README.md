@@ -5,7 +5,7 @@ A secure and responsive wallet application that enables users to sign up, sign i
 
 ## 🔗 Live Demo
 
-👉 [Visit the App](https://paytm-frontend-ah2z.onrender.com/)
+👉 [Visit the Web](https://paytm-frontend-ah2z.onrender.com/)
 
 ---
 
