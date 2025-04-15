@@ -97,16 +97,19 @@ npm run dev
 ## 📸 UI Preview
 
 ### 🔐 Sign In
-![Signin](image.png)
+![image](https://github.com/user-attachments/assets/c963666d-4c88-4507-aead-3569d8ce5255)
 
 ### 📝 Sign Up
-![Signup](image-3.png)
+![image](https://github.com/user-attachments/assets/00f4409c-d1a1-4645-8515-237568d9406f)
+
 
 ### 📊 Dashboard
-![Dashboard](image-1.png)
+![image](https://github.com/user-attachments/assets/608167d2-0cf2-4729-868a-b2432202a62d)
+
 
 ### 💸 Send Money
-![Send Money](image-2.png)
+![image](https://github.com/user-attachments/assets/b17e32bf-23ca-4ef3-b106-ba4f3890a0a4)
+
 
 ---
 
